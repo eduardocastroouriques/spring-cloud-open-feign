@@ -1,2 +1,2 @@
 # spring-cloud-open-feign
-feign impl
+Implementado um exemplo de chamada REST utilizando spring-cloud.feign.
